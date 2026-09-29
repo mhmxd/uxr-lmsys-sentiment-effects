@@ -1,0 +1,21 @@
+# Virtual Environments (Ignores the entire .venv folder)
+.venv/
+env/
+venv/
+
+# Python Caches
+__pycache__/
+*.py[cod]
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Datasets and Databases (Keep large data off GitHub)
+*.parquet
+*.csv
+*.db
+*.duckdb
+
+# OS / Editor Files
+.DS_Store
+.vscode/

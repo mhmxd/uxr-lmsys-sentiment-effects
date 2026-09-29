@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="849.928906pt" height="532.624977pt" viewBox="0 0 849.928906 532.624977" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-29T10:51:33.189929</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 532.624977 
+L 849.928906 532.624977 
+L 849.928906 0 
+L -0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 59.943719 436.962844 
+L 842.728906 436.962844 
+L 842.728906 38.597656 
+L 59.943719 38.597656 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="95.524864" y="455.656008" transform="rotate(-0 95.524864 455.656008)">−1.00</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="184.477726" y="455.656008" transform="rotate(-0 184.477726 455.656008)">−0.75</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="273.430588" y="455.656008" transform="rotate(-0 273.430588 455.656008)">−0.50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="362.38345" y="455.656008" transform="rotate(-0 362.38345 455.656008)">−0.25</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="451.336313" y="455.656008" transform="rotate(-0 451.336313 455.656008)">0.00</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="540.289175" y="455.656008" transform="rotate(-0 540.289175 455.656008)">0.25</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="text_7">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="629.242037" y="455.656008" transform="rotate(-0 629.242037 455.656008)">0.50</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="text_8">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="718.194899" y="455.656008" transform="rotate(-0 718.194899 455.656008)">0.75</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="text_9">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="807.147761" y="455.656008" transform="rotate(-0 807.147761 455.656008)">1.00</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="451.336313" y="479.680969" transform="rotate(-0 451.336313 479.680969)">Sentiment Difference: Model A - Model B</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_11">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="50.443719" y="434.113348" transform="rotate(-0 50.443719 434.113348)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_12">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="50.443719" y="359.652565" transform="rotate(-0 50.443719 359.652565)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_13">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="50.443719" y="285.191782" transform="rotate(-0 50.443719 285.191782)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_14">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="50.443719" y="210.730999" transform="rotate(-0 50.443719 210.730999)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_15">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="50.443719" y="136.270217" transform="rotate(-0 50.443719 136.270217)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_16">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="50.443719" y="61.809434" transform="rotate(-0 50.443719 61.809434)">1.0</text>
+     </g>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="16.318125" y="237.78025" transform="rotate(-90 16.318125 237.78025)">Predicted Win Probability (Model A)</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 426.429511 436.962844 
+L 476.243114 436.962844 
+L 476.243114 38.597656 
+L 426.429511 38.597656 
+z
+" clip-path="url(#p927c96791f)" style="fill: #f7941d; opacity: 0.65; stroke: #f7941d; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 59.943719 243.364809 
+L 842.728906 243.364809 
+" clip-path="url(#p927c96791f)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #888888; stroke-opacity: 0.5"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 451.336313 436.962844 
+L 451.336313 38.597656 
+" clip-path="url(#p927c96791f)" style="fill: none; stroke-dasharray: 1,1.65; stroke-dashoffset: 0; stroke: #888888; stroke-opacity: 0.5"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 59.943719 436.962844 
+L 59.943719 38.597656 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 59.943719 436.962844 
+L 842.728906 436.962844 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 95.524864 425.426284 
+L 114.064138 424.360396 
+L 129.751215 423.247904 
+L 144.012195 422.033771 
+L 158.273175 420.590224 
+L 171.108057 419.061174 
+L 182.516841 417.490706 
+L 193.925625 415.693359 
+L 203.908311 413.911135 
+L 213.890997 411.910418 
+L 223.873683 409.667473 
+L 232.430271 407.532873 
+L 240.986859 405.184566 
+L 249.543447 402.604684 
+L 258.100035 399.774644 
+L 266.656623 396.675298 
+L 273.787113 393.872719 
+L 280.917603 390.858214 
+L 288.048092 387.620491 
+L 295.178582 384.148476 
+L 302.309072 380.431475 
+L 309.439562 376.459363 
+L 316.570052 372.222795 
+L 323.700542 367.713431 
+L 330.831032 362.924183 
+L 337.961522 357.849468 
+L 345.092012 352.485476 
+L 352.222502 346.830431 
+L 359.352992 340.884852 
+L 366.483482 334.65179 
+L 373.613972 328.137042 
+L 380.744462 321.34933 
+L 389.30105 312.860558 
+L 397.857638 304.022116 
+L 406.414226 294.866733 
+L 416.396912 283.837149 
+L 427.805696 270.861142 
+L 442.066676 254.264041 
+L 476.293027 214.228606 
+L 487.701811 201.296269 
+L 497.684497 190.316556 
+L 506.241085 181.211455 
+L 514.797673 172.429191 
+L 523.354261 164.001429 
+L 530.484751 157.267467 
+L 537.615241 150.808454 
+L 544.745731 144.632515 
+L 551.876221 138.744883 
+L 559.006711 133.148085 
+L 566.137201 127.842159 
+L 573.267691 122.824902 
+L 580.398181 118.092129 
+L 587.528671 113.637935 
+L 594.659161 109.454961 
+L 601.789651 105.534647 
+L 608.920141 101.867474 
+L 616.050631 98.443188 
+L 623.18112 95.251005 
+L 630.31161 92.279792 
+L 637.4421 89.518235 
+L 645.998688 86.465121 
+L 654.555276 83.678091 
+L 663.111864 81.138077 
+L 671.668452 78.826608 
+L 680.22504 76.725946 
+L 690.207726 74.519125 
+L 700.190412 72.551033 
+L 710.173098 70.798189 
+L 721.581882 69.030777 
+L 732.990666 67.486714 
+L 745.825548 65.983596 
+L 758.66043 64.695846 
+L 772.92141 63.481714 
+L 788.608487 62.369221 
+L 805.721663 61.376947 
+L 807.147761 61.303334 
+L 807.147761 61.303334 
+" clip-path="url(#p927c96791f)" style="fill: none; stroke: #00a8cc; stroke-width: 5; stroke-linecap: round"/>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans', sans-serif; text-anchor: start; fill: #262626" x="59.943719" y="18.597656" transform="rotate(-0 59.943719 18.597656)">THE TIE-BREAKER PRINCIPLE: Non-Linear Impact of Tone on AI Wins</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 257.371778 392.821386 
+Q 254.291571 407.115475 246.629542 419.43367 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 250.821599 416.859441 
+L 246.629542 419.43367 
+L 247.085393 414.535487 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_19">
+    <g id="patch_7">
+     <path d="M 148.896581 390.360909 
+L 366.2858 390.360909 
+Q 371.7858 390.360909 371.7858 384.860909 
+L 371.7858 332.048878 
+Q 371.7858 326.548878 366.2858 326.548878 
+L 148.896581 326.548878 
+Q 143.396581 326.548878 143.396581 332.048878 
+L 143.396581 384.860909 
+Q 143.396581 390.360909 148.896581 390.360909 
+z
+" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(148.896581 341.508233)">Zone A: Clearly Losing Model</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(148.896581 354.711241)">Flattening slope.</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(148.896581 367.914249)">Polishing tone is a poor corrective;</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(148.896581 381.117257)">accuracy gap is too large.</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 358.723197 187.068685 
+Q 405.246091 203.568984 445.298172 234.025712 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 443.127439 229.6112 
+L 445.298172 234.025712 
+L 440.464123 233.113591 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_20">
+    <g id="patch_9">
+     <path d="M 196.025822 207.931991 
+L 350.835354 207.931991 
+Q 356.335354 207.931991 356.335354 202.431991 
+L 356.335354 136.418671 
+Q 356.335354 130.918671 350.835354 130.918671 
+L 196.025822 130.918671 
+Q 190.525822 130.918671 190.525822 136.418671 
+L 190.525822 202.431991 
+Q 190.525822 207.931991 196.025822 207.931991 
+z
+" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(220.794729 145.877167)">Toss-up (P ≈ 0.5)</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(221.053401 159.079316)">STEEPEST SLOPE</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(196.886916 172.282323)">Tone provides MAXIMUM</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(210.575901 185.485331)">impact on Win Rate.</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(196.025822 198.688339)">(0.6% gain per 0.1 delta)</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 647.344948 130.481849 
+Q 652.39488 102.819218 647.578278 75.171171 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+    <path d="M 646.166077 79.883463 
+L 647.578278 75.171171 
+L 650.50079 79.128307 
+" style="fill: none; stroke: #000000; stroke-linecap: round"/>
+   </g>
+   <g id="text_21">
+    <g id="patch_11">
+     <path d="M 522.498602 196.762874 
+L 751.52204 196.762874 
+Q 757.02204 196.762874 757.02204 191.262874 
+L 757.02204 138.450843 
+Q 757.02204 132.950843 751.52204 132.950843 
+L 522.498602 132.950843 
+Q 516.998602 132.950843 516.998602 138.450843 
+L 516.998602 191.262874 
+Q 516.998602 196.762874 522.498602 196.762874 
+z
+" style="fill: #ffffff; stroke: #000000; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(522.498602 147.910198)">Zone C: Dominant Model</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(522.498602 161.113206)">Diminishing returns.</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(522.498602 174.316214)">Tone does not add meaningful</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans', sans-serif; fill: #262626" transform="translate(522.498602 187.519222)">win-rate once core utility is superior.</text>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-style: italic; font-size: 10px; font-family: 'DejaVu Sans', sans-serif; fill: #333333" transform="translate(100.984906 510.018922)">Statistical mechanism showing that AI response sentiment operates as a tie-breaker, not a primary driver of user</text>
+   <text style="font-style: italic; font-size: 10px; font-family: 'DejaVu Sans', sans-serif; fill: #333333" transform="translate(100.984906 522.021656)">preference, especially at the extremes of model performance. Derived from LMSYS data and logistic regression.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p927c96791f">
+   <rect x="59.943719" y="38.597656" width="782.785188" height="398.365187"/>
+  </clipPath>
+ </defs>
+</svg>
