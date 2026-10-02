@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="432pt" viewBox="0 0 720 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-29T16:02:59.492231</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 720 432 
+L 720 0 
+L 0 0 
+L 0 432 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 66.207094 372.892906 
+L 692.304 372.892906 
+L 692.304 39.336 
+L 66.207094 39.336 
+L 66.207094 372.892906 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="66.207094" y="391.58607" transform="rotate(-0 66.207094 391.58607)">−1.00</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="144.469207" y="391.58607" transform="rotate(-0 144.469207 391.58607)">−0.75</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="222.73132" y="391.58607" transform="rotate(-0 222.73132 391.58607)">−0.50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="300.993434" y="391.58607" transform="rotate(-0 300.993434 391.58607)">−0.25</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="379.255547" y="391.58607" transform="rotate(-0 379.255547 391.58607)">0.00</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="text_6">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="457.51766" y="391.58607" transform="rotate(-0 457.51766 391.58607)">0.25</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="text_7">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="535.779773" y="391.58607" transform="rotate(-0 535.779773 391.58607)">0.50</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="text_8">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="614.041887" y="391.58607" transform="rotate(-0 614.041887 391.58607)">0.75</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="text_9">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="692.304" y="391.58607" transform="rotate(-0 692.304 391.58607)">1.00</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 13.2px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="379.255547" y="414.522844" transform="rotate(-0 379.255547 414.522844)">Sentiment Difference (Model A - Model B)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_11">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="56.707094" y="371.074932" transform="rotate(-0 56.707094 371.074932)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_12">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="56.707094" y="306.929373" transform="rotate(-0 56.707094 306.929373)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_13">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="56.707094" y="242.783815" transform="rotate(-0 56.707094 242.783815)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_14">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="56.707094" y="178.638256" transform="rotate(-0 56.707094 178.638256)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_15">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="56.707094" y="114.492697" transform="rotate(-0 56.707094 114.492697)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_16">
+      <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: end; fill: #262626" x="56.707094" y="50.347138" transform="rotate(-0 56.707094 50.347138)">1.0</text>
+     </g>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 13.2px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="24.293219" y="206.114453" transform="rotate(-90 24.293219 206.114453)">Predicted Win Probability</text>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path d="M 66.207094 274.822807 
+L 78.754126 268.354679 
+L 91.301158 261.639003 
+L 105.102894 253.988299 
+L 118.904629 246.090618 
+L 135.215771 236.486238 
+L 154.036319 225.121176 
+L 179.130383 209.68172 
+L 220.53559 184.198078 
+L 239.356138 172.901121 
+L 255.66728 163.377213 
+L 269.469015 155.561383 
+L 283.270751 148.003422 
+L 295.817783 141.380036 
+L 308.364815 135.010395 
+L 320.911847 128.908284 
+L 332.204176 123.653672 
+L 343.496505 118.629234 
+L 354.788834 113.837987 
+L 366.081163 109.280991 
+L 377.373492 104.957511 
+L 388.665821 100.86521 
+L 399.95815 97.000333 
+L 411.250479 93.357901 
+L 422.542808 89.931901 
+L 435.08984 86.370703 
+L 447.636872 83.057827 
+L 460.183904 79.982122 
+L 472.730937 77.13191 
+L 485.277969 74.495204 
+L 499.079704 71.826973 
+L 512.88144 69.386373 
+L 527.937878 66.964956 
+L 542.994317 64.77572 
+L 559.305459 62.643902 
+L 575.616601 60.739093 
+L 593.182446 58.916862 
+L 612.002994 57.200397 
+L 632.078245 55.607528 
+L 653.4082 54.150604 
+L 675.992858 52.836655 
+L 692.304 52.014863 
+L 692.304 52.014863 
+" clip-path="url(#pc3f88ea595)" style="fill: none; stroke: #2e7d32; stroke-width: 3.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 66.207094 360.214043 
+L 90.046455 358.978265 
+L 112.631113 357.589727 
+L 133.961068 356.050893 
+L 154.036319 354.369426 
+L 172.856867 352.558603 
+L 190.422712 350.637466 
+L 206.733854 348.63066 
+L 221.790293 346.567975 
+L 236.846732 344.28437 
+L 250.648467 341.980375 
+L 264.450202 339.458846 
+L 278.251938 336.703866 
+L 290.79897 333.983208 
+L 303.346002 331.044224 
+L 315.893034 327.875028 
+L 328.440067 324.464125 
+L 340.987099 320.800637 
+L 352.279428 317.279246 
+L 363.571757 313.538634 
+L 374.864086 309.573226 
+L 386.156415 305.378563 
+L 397.448744 300.951496 
+L 408.741073 296.290376 
+L 420.033401 291.395246 
+L 431.32573 286.268013 
+L 442.618059 280.912615 
+L 455.165092 274.702066 
+L 467.712124 268.229073 
+L 480.259156 261.508853 
+L 494.060891 253.853606 
+L 509.11733 245.222555 
+L 525.428472 235.594165 
+L 544.24902 224.209285 
+L 570.597788 207.981532 
+L 608.238884 184.815265 
+L 627.059433 173.503244 
+L 643.370574 163.961777 
+L 657.17231 156.128213 
+L 670.974045 148.550254 
+L 683.521077 141.907037 
+L 692.304 137.4061 
+L 692.304 137.4061 
+" clip-path="url(#pc3f88ea595)" style="fill: none; stroke: #d32f2f; stroke-width: 3.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 66.207094 206.114453 
+L 692.304 206.114453 
+" clip-path="url(#pc3f88ea595)" style="fill: none; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #888888; stroke-opacity: 0.7; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 379.255547 372.892906 
+L 379.255547 39.336 
+" clip-path="url(#pc3f88ea595)" style="fill: none; stroke-dasharray: 1.2,1.98; stroke-dashoffset: 0; stroke: #888888; stroke-opacity: 0.7; stroke-width: 1.2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 66.207094 372.892906 
+L 66.207094 39.336 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 66.207094 372.892906 
+L 692.304 372.892906 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 13.2px; font-family: 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #262626" x="379.255547" y="24.336" transform="rotate(-0 379.255547 24.336)">2. Impact of Tone Under Capability Asymmetry</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_5">
+     <path d="M 74.677094 85.317891 
+L 350.593016 85.317891 
+Q 353.013016 85.317891 353.013016 82.897891 
+L 353.013016 47.806 
+Q 353.013016 45.386 350.593016 45.386 
+L 74.677094 45.386 
+Q 72.257094 45.386 72.257094 47.806 
+L 72.257094 82.897891 
+Q 72.257094 85.317891 74.677094 85.317891 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_5">
+     <path d="M 77.097094 55.185109 
+L 89.197094 55.185109 
+L 101.297094 55.185109 
+" style="fill: none; stroke: #2e7d32; stroke-width: 3.5; stroke-linecap: round"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: start; fill: #262626" x="110.977094" y="59.420109" transform="rotate(-0 110.977094 59.420109)">Dominant Model (Accuracy Advantage)</text>
+    </g>
+    <g id="line2d_6">
+     <path d="M 77.097094 73.336055 
+L 89.197094 73.336055 
+L 101.297094 73.336055 
+" style="fill: none; stroke: #d32f2f; stroke-width: 3.5; stroke-linecap: round"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 12.1px; font-family: 'DejaVu Sans', sans-serif; text-anchor: start; fill: #262626" x="110.977094" y="77.571055" transform="rotate(-0 110.977094 77.571055)">Inferior Model (Capability Deficit)</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc3f88ea595">
+   <rect x="66.207094" y="39.336" width="626.096906" height="333.556906"/>
+  </clipPath>
+ </defs>
+</svg>
